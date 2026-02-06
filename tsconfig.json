@@ -7,9 +7,6 @@
       "path": "./apps"
     },
     {
-      "path": "./shared"
-    },
-    {
       "path": "./libs"
     }
   ]
